@@ -34,7 +34,7 @@ public:
         bool hasType(Type) const;
     };
     enum class Genders{
-        Male; Female; None;
+        Male; Female; Unknown;
     };
 };
 
