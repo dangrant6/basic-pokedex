@@ -1,1 +1,1 @@
-making a basic pokedex 
+basic pokedex c++ practice
